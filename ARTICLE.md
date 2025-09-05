@@ -10,3 +10,5 @@ Over the past summer, I watched several videos about data-oriented design, which
 
 ## Proof Reading
 Article checked for typos
+## Kofi's comments
+It was a really insightful article that explains OOP and its uses and its downfalls
