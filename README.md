@@ -2,5 +2,4 @@
 # Git Practice
 A simple project to practice a few git/github workflows.  This file was updated by Ithemba Ndakavambaani as instructed in [instructions](./instructions.md).
 
-This is [the link](https://github.com/cs-uh-2012-fall25/i1-git-practice-kofiAnimAY/pull/2) to my merged Pull Request on Kofi's repository-https://github.com/cs-uh-2012-fall25/i1-git-practice->
-
+This is [the link](https://github.com/cs-uh-2012-fall25/i1-git-practice-kofiAnimAY/pull/2) to my merged Pull Request on Kofi's repository.
